@@ -68,3 +68,5 @@ Change owed: -0.41
 Change owed: foo
 Change owed: 0.41
 4
+
+Author: Andrés R. Bucheli.
