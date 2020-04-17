@@ -68,5 +68,9 @@ Change owed: -0.41
 Change owed: foo
 Change owed: 0.41
 4
+<strong>INSTRUCTIONS</strong>
 
-Author: Andrés R. Bucheli.
+1. Download and unzip the repository folder.
+2. Open, compile and run the cash.c file in a C compiler to see the project.
+
+# Author: Andrés R. Bucheli.
