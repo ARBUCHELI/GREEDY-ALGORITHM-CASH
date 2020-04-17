@@ -68,6 +68,7 @@ Change owed: -0.41
 Change owed: foo
 Change owed: 0.41
 4
+<hr>
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
