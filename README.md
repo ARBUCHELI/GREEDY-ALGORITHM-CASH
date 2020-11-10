@@ -1,5 +1,9 @@
 # CASH (PSET1 CS50 INTRODUCTION TO COMPUTER SCIENCE HARVARD)
 
+## DISCLAIMER: This problem was originally created by Harvard University and the solution presented here is only one of the possible solutions to this problem.
+
+## DISCLAIMER: This repository was created for pedagogical and self-consultation purposes only. No one is recommended to copy the solution presented here because copying may lead to sanctions and violations of the CS50 rules of academic honesty.
+
 <strong>Greedy Algorithms</strong>
 
 ![US coins](https://lab.cs50.io/_site/3239b6b61ad1beb860bccf965c6c49f2e6984b79/cash/coins.jpg)
